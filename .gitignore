@@ -1,0 +1,5 @@
+build/
+dist/
+package/winmm.dll
+*.log
+licoop_cmd.txt
